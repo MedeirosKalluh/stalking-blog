@@ -1,4 +1,4 @@
 export const font = {
-  fontFamilyTitle: "'Poppins', sans-serif",
-  fontFamilyBody: "'Mundial', sans-serif"
+  fontFamilyTitle: "'SangBleu Sunrise', sans-serif",
+  fontFamilyBody: "'Telegraf', sans-serif",
 };
